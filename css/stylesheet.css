@@ -1,0 +1,60 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-sizing: border-box;
+}
+
+#banner {
+    background-color: rgb(255, 180, 192);
+    font-size: 32px;
+    font-weight: bold;
+    display: block;
+}
+
+#intro {
+    /* border: 3px solid red; */
+    white-space: nowrap;
+}
+
+#intro img {
+    width: 30%;
+    height: auto;
+    padding-right: 16px;
+}
+
+#intro div {
+    /* border: 2px solid red; */
+    white-space: normal;
+    display: inline-block;
+    width: 70%;
+    vertical-align: top;
+}
+
+#intro div p {
+    /* border: 1px solid blue; */
+    margin-top: 0;
+}
+
+/* #intro img {
+    display: inline
+}
+
+#intro div {
+    border: 3px solid red;
+    display: inline-block
+} */
+
+
+
+
+/* General text formatting */
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-family: "Brush Script MT", cursive;
+}
+
+p {
+    
+}
